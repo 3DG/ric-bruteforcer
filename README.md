@@ -1,2 +1,2 @@
 # ric-bruteforcer
-Brute forces tons of seeds through the =char command in RIC until the provided description matches
+Original code and sprite data taken from https://github.com/balt-is-you-and-shift/robot-is-chill
