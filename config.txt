@@ -1,0 +1,14 @@
+To make a feature randomized again (like color, eyes, legs), delete it from the file.
+Booleans (True and False) HAVE to be capitalized or they will not work!
+
+name=Baba
+color=white
+variant=smooth
+type=long
+mouth=False
+legs=4
+ears=2
+eyes=2
+searchThrough=inf
+saveImg=True
+startFrom=9100000
